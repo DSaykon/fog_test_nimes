@@ -6,3 +6,4 @@
 string fog_test_nimes
 
 
+# тест текста на новой ветке
